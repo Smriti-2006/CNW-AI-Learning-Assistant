@@ -1,0 +1,9 @@
+streamlit
+google-genai
+pandas
+numpy
+scikit-learn==1.6.1
+joblib
+matplotlib
+python-pptx
+streamlit-mic-recorder
