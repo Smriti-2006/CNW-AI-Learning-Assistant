@@ -3,7 +3,7 @@ google-genai
 pandas
 numpy
 scikit-learn==1.6.1
-joblib
+joblib==1.6.0
 matplotlib
 python-pptx
 streamlit-mic-recorder
