@@ -51,7 +51,8 @@ except Exception:
 
 
 MODEL_NAME = "gemini-3.5-flash-lite"
-qos_model = joblib.load("random_forest_qos_model_compressed.pkl")preprocessor = joblib.load("qos_preprocessor_compatible.pkl")
+qos_model = joblib.load("random_forest_qos_model_compressed.pkl")
+preprocessor = joblib.load("qos_preprocessor_compatible.pkl")
 scaler = joblib.load("qos_scaler.pkl")
 
 # ============================================================
